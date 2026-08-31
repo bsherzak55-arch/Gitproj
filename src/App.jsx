@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Header from './Header'
 import heroImg from './assets/hero.png'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
@@ -9,6 +10,7 @@ function App() {
 
   return (
     <>
+      <Header />
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
