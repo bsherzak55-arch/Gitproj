@@ -116,7 +116,7 @@ function App() {
       </section>
       <footer>
 
-        this is the footer 
+        this is the footer after test
       </footer>
 
       <div className="ticks"></div>
