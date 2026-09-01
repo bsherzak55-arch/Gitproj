@@ -114,6 +114,10 @@ function App() {
           </ul>
         </div>
       </section>
+      <footer>
+
+        this is the footer 
+      </footer>
 
       <div className="ticks"></div>
       <section id="spacer"></section>
